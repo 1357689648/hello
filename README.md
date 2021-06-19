@@ -1,2 +1,2 @@
 # hello
-tmy first reponsitory
+my first reponsitory
